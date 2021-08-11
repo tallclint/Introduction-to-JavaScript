@@ -268,7 +268,7 @@ function grade(score){
   }else if (score <= 69 && score >= 60){
     return "you got a D";
   }else{
-    return "you got an F";
+    return "you got an F"; 
   }
 }
 console.log('task 7' , grade());
