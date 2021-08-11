@@ -47,7 +47,7 @@ Do the following:
 
    HINT: look up the Number method
 */
-const 
+let 1999 = '1999';
 
 
 
