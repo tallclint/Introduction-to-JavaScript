@@ -269,7 +269,7 @@ function grade(score){
     return "you got a D";
   }else{
     return "you got an F"; 
-  }
+  } 
 }
 console.log('task 7' , grade());
 
